@@ -2,7 +2,7 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-body{
+.bg-body{
   background-color: #4299e1;
 }
 
