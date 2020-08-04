@@ -9,7 +9,7 @@ const Hero = () => {
                 <h2 className='text-4xl font-bold md:text-5xl uppercase pl-16'>Fullstack Developer</h2>
                 <ContactMe />
             </div>
-            <div className='mx-2 px-12 ml-2'><img src='/images/Igor-Rangel.png' /></div>
+            <div className='mx-2 px-12 ml-2'><img src='/images/igorrangel.png' /></div>
         </div>
     )
 
