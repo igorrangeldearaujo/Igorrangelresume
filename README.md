@@ -1,9 +1,11 @@
 # Igor Rangel (resume)
 
+[![HitCount](https://hits.dwyl.com/igorrangeldearaujo/Igor-Resume.svg)]
+(http://hits.dwyl.com/igorrangeldearaujo/Igor-Resume)
+
 Este projeto é o código-fonte do curriculo online de Igor Rangel.
 
 ![Preview](https://github.com/igorrangeldearaujo/Igor-Resume/blob/master/print.png?raw=true)
-
 
 ## Início
 
