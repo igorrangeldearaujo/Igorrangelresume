@@ -1,3 +1,5 @@
+import React from 'react'
+
 const Index = ({ repos, user }) => {
     //Div é JSX
     return(
