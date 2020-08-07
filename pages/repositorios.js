@@ -1,5 +1,3 @@
-import react from 'react'
-import getUser from '../utils/getUser'
 const Index = ({ repos, user }) => {
     //Div é JSX
     return(
