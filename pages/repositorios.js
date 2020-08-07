@@ -19,7 +19,8 @@ const Index = ({ repos, user }) => {
     )
 }
 export async function getServerSideProps(context){
-    const { repos, user } = await getUser('Igor202094')
+    const request = await fetch(process.env.API_URL + '/api/getUser')
+    const { repos, user } = await request.json()
     return {
         props: {
             currentDate: new Date().toString(),
